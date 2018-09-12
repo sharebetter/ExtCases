@@ -2,7 +2,7 @@
 ## Some cases of Ext
 
 ### Ext case one:
-![image](https://github.com/sharebetter/itemShowImg/tree/master/ExtCaseImg/list.png)  
+![image](http://oxto2zus6.bkt.clouddn.com/1.png)  
 
 ### Ext case two:
 ![image](https://github.com/sharebetter/itemShowImg/tree/master/ExtCaseImg/ExtLayout.png)  
