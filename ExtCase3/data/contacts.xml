@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<contacts>
+    <total>4</total>
+    <contact>
+        <id>1</id>
+        <nickname>testingdept</nickname>
+        <mobilenumber>1348999999</mobilenumber>
+        <group>group1</group>
+    </contact>
+    <contact>
+        <id>2</id>
+        <nickname>supportdept</nickname>
+        <mobilenumber>0596222222</mobilenumber>
+        <group>group2</group>
+    </contact>  
+    <contact>
+        <id>3</id>
+        <nickname>testingd</nickname>
+        <mobilenumber>13489999</mobilenumber>
+        <group>group1</group>
+    </contact>
+    <contact>
+        <id>4</id>
+        <nickname>suppodept</nickname>
+        <mobilenumber>059222222</mobilenumber>
+        <group>group2</group>
+    </contact>   
+</contacts>
+</root>

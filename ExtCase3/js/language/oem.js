@@ -1,0 +1,1 @@
+var LINKUS = "Linkus";

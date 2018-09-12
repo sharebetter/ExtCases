@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<languages>
+    <total>2</total>
+    <language>
+        <id>1</id>
+        <name>English</name>
+        <value>en</value>
+    </language>
+    <language>
+        <id>2</id>
+        <name>Chinese</name>
+        <value>zh-CN</value>
+    </language>
+</languages>
+</root>
