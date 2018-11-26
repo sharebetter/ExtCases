@@ -2,10 +2,10 @@
 ## Some cases of Ext
 
 ### Ext case one:
-![image](http://pexp6nc7z.bkt.clouddn.com/list.png)  
+![image](https://github.com/sharebetter/ExtCases/blob/master/ItemImage/ExtCase1.gif)  
 
 ### Ext case two:
-![image](http://pexp6nc7z.bkt.clouddn.com/ExtLayout.png)  
+![image](https://github.com/sharebetter/ExtCases/blob/master/ItemImage/ExtCase2.png)  
 
 ### Ext case three:
-![image](http://pexp6nc7z.bkt.clouddn.com/ExtCase.gif)  
+![image](https://github.com/sharebetter/ExtCases/blob/master/ItemImage/ExtCase3.gif)  
